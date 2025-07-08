@@ -28,6 +28,7 @@ ssh tunnel
 .net maui blazor hybrid web app with mudblazor for ui
 kaggle
 colab
+vps
 ...etc
 ```
 what else?
