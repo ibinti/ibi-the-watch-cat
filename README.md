@@ -1,6 +1,6 @@
 # ibi-the-watch-cat
 autonomous security watch robot
-`
+```
 hardware -
 raspberry pi family
 arduino 
@@ -12,8 +12,8 @@ gear box
 qi charger
 battery
 ...etc
-`
-`
+```
+```
 software -
 raspberry pi os
 ubuntu
@@ -29,6 +29,6 @@ ssh tunnel
 kaggle
 colab
 ...etc
-`
+```
 what else?
 
