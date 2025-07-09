@@ -22,6 +22,7 @@ raspberry pi family
 arduino 
 camera
 mic
+sensors - temp, humidity 
 motor
 wheel
 gear box
