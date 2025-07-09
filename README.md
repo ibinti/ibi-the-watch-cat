@@ -27,7 +27,7 @@ motor
 wheel
 gear box
 qi charger
-battery
+battery - charging and level monitoring circuit
 ...etc
 ```
 ```
