@@ -26,8 +26,8 @@ sensors - temp, humidity
 motor
 wheel
 gear box
-qi charger
-battery - charging and level monitoring circuit
+qi transmitter and receiver pair
+nickel-metal hydride and lithium-ion rechargeable battery - charging and level monitoring circuit
 ...etc
 ```
 ```
