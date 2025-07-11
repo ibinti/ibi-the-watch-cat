@@ -1,8 +1,8 @@
 # ibi-the-watch-cat
 
-Autonomous Security Watch Robot
+Autonomous Safety Monitor Watch Robot
 
-I'm excited to share my Autonomous Security Watch Robot project at the Vancouver Robotics Club meetup (https://www.meetup.com/vancouverroboticsclub) on July 20, 2025. This self-explanatory project focuses on developing a robot capable of independent security surveillance.
+I'm excited to share my Autonomous Safety Monitor Watch Robot project at the Vancouver Robotics Club meetup (https://www.meetup.com/vancouverroboticsclub) on July 20, 2025. This self-explanatory project focuses on developing a mobile robot capable of independent safety surveillance.
 
 It's currently in the idea stage, and I'm exploring various aspects of its design and functionality.
 
@@ -17,12 +17,28 @@ I'm thinking through things like:
 I'm looking forward to refining these ideas as the project progresses!
 
 ```
+duties -
+watch smoke
+watch humidity
+watch temperature
+watch gas leak
+watch water leak
+watch pot 
+watch door
+watch window
+watch neighbour cats
+watch neighbour dogs
+watch squarrel
+watch silver fish
+watch spider
+...
+
 hardware -
-raspberry pi family
-arduino 
+arduino
+raspberry pi
 camera
 mic
-sensors - temp, humidity 
+sensors - smoke, temp, humidity, etc 
 motor
 wheel
 gear box
@@ -36,13 +52,12 @@ raspberry pi os
 ubuntu
 python
 pytorch
-hugging face accelerate
 onnx
 docker
 fastapi
 ollama
 ssh tunnel
-.net maui blazor hybrid web app with mudblazor for ui
+.net maui blazor hybrid web app with mudblazor
 kaggle
 colab
 vps
