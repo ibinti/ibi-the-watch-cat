@@ -12,7 +12,7 @@ At the moment, there exists a significant gap between the ideal ibi vs the expec
 
 <div align="center">
   <img src="ibi-the-watch-cat-ideal.png" alt="ideal ibi" width="350" style="display: inline-block; margin: 0 15px;">
-  <img src="ibi-the-watch-cat-reality.png" alt="expected ibi" width="350" style="display: inline-block; margin: 0 15px;">
+  <img src="ibi-the-watch-cat-expected.png" alt="expected ibi" width="350" style="display: inline-block; margin: 0 15px;">
 </div>
 
 <br>
