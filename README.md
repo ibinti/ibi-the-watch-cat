@@ -16,16 +16,39 @@ I'm thinking through things like:
 
     Sensors: What technologies will it use to perceive its environment?
 
-chtgpt prompt: create an image of watch cat on duty. better to have a on duty badge or strap somewhere on body.
+This is an ideal image of ibi created with chtgpt prompt: create an image of watch cat on duty. better to have a on duty badge or strap somewhere on body.
+![ibi-the-watch-cat-ideal](ibi-the-watch-cat-ideal.png)
 
-here is an ideal image of ibi created
+This is the reality at the moment.
 
-![Alt text]([ibi-the-watch-cat-ideal.png)
+<div align="center">
+  <img src="ibi-the-watch-cat-ideal.png" alt="Before state" width="350" style="display: inline-block; margin: 0 15px;">
+  <img src="ibi-the-watch-cat-ideal.png" alt="After state" width="350" style="display: inline-block; margin: 0 15px;">
+</div>
 
-here is the realy at the moment
+<div align="center">
+  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+    <h3>Ideal</h3>
+    <img src="ibi-the-watch-cat-ideal.png" alt="Image 1 Description" width="350">
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 0 10px;">
+    <h3>Reality</h3>
+    <img src="ibi-the-watch-cat-ideal.png" alt="Image 2 Description" width="350">
+  </div>
+</div>
 
-
-
+<table style="width:100%; border:none;">
+  <tr>
+    <td style="width:50%; text-align:center; vertical-align:top; border:none; padding:10px;">
+      <h3>Ideal</h3>
+      <img src="ibi-the-watch-cat-ideal.png" alt="The state of the system before changes were applied." width="350">
+    </td>
+    <td style="width:50%; text-align:center; vertical-align:top; border:none; padding:10px;">
+      <h3>Reality</h3>
+      <img src="ibi-the-watch-cat-ideal.png" alt="The state of the system after changes were applied, showing improvements." width="350">
+    </td>
+  </tr>
+</table>
 
 I'm looking forward to refining these ideas as the project progresses!
 
