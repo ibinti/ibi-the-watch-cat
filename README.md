@@ -16,6 +16,15 @@ I'm thinking through things like:
 
     Sensors: What technologies will it use to perceive its environment?
 
+chtgpt prompt: create an image of watch cat on duty. better to have a on duty badge or strap somewhere on body.
+
+here is an ideal image of ibi created
+
+here is the realy at the moment
+
+
+
+
 I'm looking forward to refining these ideas as the project progresses!
 
 ```
