@@ -2,7 +2,7 @@
 
 Autonomous Safety Monitor Watch Robot
 
-I'm excited to share my Autonomous Safety Monitor Watch Robot project at the Vancouver Robotics Club meetup (https://www.meetup.com/vancouverroboticsclub) on July 20, 2025. This self-explanatory project focuses on developing a mobile robot capable of independent safety surveillance.
+I'm excited to share my Autonomous Safety Monitor Watch Robot project. This self-explanatory project focuses on developing a mobile robot capable of independent safety surveillance.
 
 It's currently in the idea stage, and I'm exploring various aspects of its design and functionality.
 
