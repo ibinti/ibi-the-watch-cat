@@ -65,4 +65,4 @@ vps
 ```
 what else?
 
-link: https://ibinti.com/ibi-the-watch-cat
+https://ibinti.com/ibi-the-watch-cat
