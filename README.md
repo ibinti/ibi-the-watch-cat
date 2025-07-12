@@ -8,7 +8,7 @@ I'm excited to share my Autonomous Safety Monitor Watch AI Robot project. This s
 
 It's currently in the idea stage, and I'm exploring various aspects of its design and functionality.
 
-There is a significant gap between the ideal ibi vs the real ibi at the moment.
+At the moment, there exists a significant gap between the ideal ibi vs the real ibi. The goal of this project is to minimize the gap.
 
 <div align="center">
   <img src="ibi-the-watch-cat-ideal.png" alt="Before state" width="350" style="display: inline-block; margin: 0 15px;">
