@@ -20,7 +20,7 @@ chtgpt prompt: create an image of watch cat on duty. better to have a on duty ba
 
 here is an ideal image of ibi created
 
-![Alt text](path/to/your/image.png)
+![Alt text]([ibi-the-watch-cat-ideal.png)
 
 here is the realy at the moment
 
