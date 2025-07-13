@@ -94,3 +94,10 @@ ibi pushes heartbeat
 in progress...update ibinti.com/ibi-the-watch-cat when heartbeat arrives
 <br>todo: try SignalR Push Hub for real-time heartbeat updates, and see what happens
 
+<br>
+2025.0719
+
+2025.0720
+<br>
+todo: try run tinyclip and tinyvit with onnx on pi 4
+...
