@@ -78,7 +78,7 @@ vps
 <br>
 2025.0712
 
-todo: arduino and raspberry pi 4 in the body box. run pi with ac-power adaptor.
+arduino and raspberry pi 4 in the body box. run pi with ac-power adaptor.
 let it to connect wifi and push heart beat to https://ibinti.com/ibi-the-watch-cat
 <br>
 set up ssh tunnel and real vnc viewer<br>
