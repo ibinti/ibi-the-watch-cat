@@ -25,8 +25,6 @@ I'm thinking through things like:
 
     Sensors: What technologies will it use to perceive its environment?
 
-
-
 I'm looking forward to refining these ideas as the project progresses!
 
 ```
@@ -77,5 +75,11 @@ colab
 vps
 ...etc
 ```
-what else?
+<br>
+2025.0712
+
+todo: arduino and raspberry pi 4 in the body box. run pi with ac-power adaptor.
+let it to connect wifi and push heart beat to https://ibinti.com/ibi-the-watch-cat
+<br>
+in progress...
 
