@@ -79,16 +79,17 @@ vps
 2025.0712
 
 arduino and raspberry pi 4 in the body box. run pi with ac-power adaptor.
-let it to connect wifi and push heart beat to https://ibinti.com/ibi-the-watch-cat
+let it to connect wifi and push heartbeat to https://ibinti.com/ibi-the-watch-cat
 <br>
 set up ssh tunnel and real vnc viewer<br>
 ```bash
 ssh -L 5900:20.25.07.12:5900 ibi@20.25.07.12
 VNC Server: localhost
-ibi pushes heart beat
+ibi pushes heartbeat
 ```
 <br>
 2025.0713
 
-in progress...update https://ibinti.com/ibi-the-watch-cat when heart-beat arrives
+in progress...update https://ibinti.com/ibi-the-watch-cat when heartbeat arrives
+<br>trying SignalR Push Hub for real-time heartbeat update, will see what happens
 
