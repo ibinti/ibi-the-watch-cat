@@ -44,7 +44,8 @@ watch silver fish
 watch spider
 watch youtube?
 ...
-
+```
+```
 hardware -
 arduino
 raspberry pi
@@ -64,6 +65,8 @@ raspberry pi os
 ubuntu
 python
 pytorch
+train open_clip with adapter layer
+knowledge distillation to tinyclip or tinyvit
 onnx
 docker
 fastapi
