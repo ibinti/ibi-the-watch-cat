@@ -81,5 +81,10 @@ vps
 todo: arduino and raspberry pi 4 in the body box. run pi with ac-power adaptor.
 let it to connect wifi and push heart beat to https://ibinti.com/ibi-the-watch-cat
 <br>
+set up ssh tunnel and real vnc viewer<br>
+```bash
+ssh -L 5900:20.25.07.12:5900 ibi@20.25.07.12
+VNC Server: localhost
+```
 in progress...
 
