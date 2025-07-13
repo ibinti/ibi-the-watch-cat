@@ -1,7 +1,5 @@
 # ibi-the-watch-cat
 
-https://ibinti.com/ibi-the-watch-cat
-
 Autonomous Safety Monitor Watch AI Robot
 
 I'm excited to share my Autonomous Safety Monitor Watch AI Robot project. This self-explanatory project focuses on developing a mobile AI robot capable of independent safety surveillance.
@@ -82,7 +80,7 @@ vps
 2025.0712
 
 arduino and raspberry pi 4 in the body box. run pi with ac-power adaptor.
-let it to connect wifi and push heartbeat to https://ibinti.com/ibi-the-watch-cat
+let it to connect wifi and push heartbeat to ibinti.com/ibi-the-watch-cat
 <br>
 set up ssh tunnel and real vnc viewer<br>
 ```bash
@@ -93,6 +91,6 @@ ibi pushes heartbeat
 <br>
 2025.0713
 
-in progress...update https://ibinti.com/ibi-the-watch-cat when heartbeat arrives
+in progress...update ibinti.com/ibi-the-watch-cat when heartbeat arrives
 <br>todo: try SignalR Push Hub for real-time heartbeat updates, and see what happens
 
