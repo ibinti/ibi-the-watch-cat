@@ -85,6 +85,7 @@ set up ssh tunnel and real vnc viewer<br>
 ```bash
 ssh -L 5900:20.25.07.12:5900 ibi@20.25.07.12
 VNC Server: localhost
+ibi pushes heart beat
 ```
-in progress.../etc/systemd/system/ibi.service
+in progress...update https://ibinti.com/ibi-the-watch-cat when heart-beat arrives
 
