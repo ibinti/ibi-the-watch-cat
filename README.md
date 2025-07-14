@@ -91,8 +91,7 @@ ibi pushes heartbeat
 <br>
 2025.0713
 
-in progress...update ibinti.com/ibi-the-watch-cat when heartbeat arrives
-<br>todo: try SignalR Push Hub for real-time heartbeat updates, and see what happens
+real-time ibi heartbeat works
 
 <br>
 2025.0719
