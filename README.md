@@ -29,6 +29,7 @@ I'm looking forward to refining these ideas as the project progresses!
 
 ```
 duties -
+watch taking pills correctly
 watch smoke
 watch humidity
 watch temperature
