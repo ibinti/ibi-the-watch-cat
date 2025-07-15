@@ -2,6 +2,8 @@
 
 Autonomous Safety Monitor Watch AI Robot
 
+https://ibinti.com/ibi-the-watch-cat
+
 I'm excited to share my Autonomous Safety Monitor Watch AI Robot project. This self-explanatory project focuses on developing a mobile AI robot capable of independent safety surveillance.
 
 It's currently in the idea stage, and I'm exploring various aspects of its design and functionality.
