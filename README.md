@@ -104,7 +104,7 @@ real-time ibi heartbeat works
 
 2025.0720
 <br>
-todo: try run tinyclip and tinyvit with onnx on pi 4
+todo: try run onnx tinyclip
 ...
 
 https://ibinti.com/ibi-the-watch-cat
