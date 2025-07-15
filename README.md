@@ -54,6 +54,7 @@ arduino
 raspberry pi
 camera
 mic
+speaker
 sensors - smoke, temp, humidity, etc 
 motor
 wheel
