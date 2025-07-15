@@ -97,7 +97,7 @@ ibi pushes heartbeat
 <br>
 2025.0713
 
-real-time ibi heartbeat works
+real-time heartbeat
 
 <br>
 2025.0719
