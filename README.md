@@ -102,3 +102,5 @@ real-time ibi heartbeat works
 <br>
 todo: try run tinyclip and tinyvit with onnx on pi 4
 ...
+
+https://ibinti.com/ibi-the-watch-cat
