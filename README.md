@@ -32,12 +32,12 @@ duties -
 watch taking pills correctly
 watch eating and drinking
 watch bathroom use
+watch kitchen use 
 watch smoke
 watch humidity
 watch temperature
 watch gas leak
 watch water leak
-watch pot 
 watch door
 watch window
 watch neighbour cats
