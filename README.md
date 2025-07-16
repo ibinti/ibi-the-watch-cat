@@ -104,7 +104,7 @@ real-time heartbeat
 
 2025.0720
 <br>
-todo: try run onnx tinyclip
+todo: try run onnx tinyvit
 ...
 
 https://ibinti.com/ibi-the-watch-cat
