@@ -29,6 +29,7 @@ I'm looking forward to refining these ideas as the project progresses!
 
 ```
 duties -
+watch plants grow
 watch taking pills correctly
 watch eating and drinking
 watch bathroom use
