@@ -102,10 +102,12 @@ real-time heartbeat
 
 <br>
 2025.0719
+<br>
+todo: run arduino on pi usb port and demo a simple led on/off with arduino
 
 2025.0720
 <br>
-todo: try run onnx tinyvit
+todo: meetup
 ...
 
 https://ibinti.com/ibi-the-watch-cat
