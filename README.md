@@ -98,13 +98,15 @@ ibi pushes heartbeat
 ```
 <br>
 2025.0713
-
+<br>
 real-time heartbeat
 
 <br>
-2025.0719
+2025.0717
 <br>
-todo: run arduino on pi usb port and demo a simple led on/off with arduino
+arduino on pi usb port
+<br>
+pyfirmata on pi controls arduino onboard led on/off/blink
 
 2025.0720
 <br>
