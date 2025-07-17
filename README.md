@@ -56,7 +56,8 @@ raspberry pi
 camera
 mic
 speaker
-sensors - smoke, temp, humidity, etc 
+sensors - smoke, temp, humidity, etc
+relay
 motor
 wheel
 gear box
