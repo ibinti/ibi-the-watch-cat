@@ -80,7 +80,6 @@ ibi pushes heartbeat
 <br>
 real-time heartbeat
 
-<br>
 2025.0717
 <br>
 arduino on pi usb port
