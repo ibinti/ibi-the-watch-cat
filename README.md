@@ -4,7 +4,7 @@ Safety Monitor Watch AI Robot
 
 I'm excited to share my Safety Monitor Watch AI Robot project. This project focuses on developing an AI robot using Adruino, Raspberry Pi and AI model trained on Colab.
 
-It's currently in the idea stage, and I'm exploring various aspects of its design and functionality.
+I'm exploring various aspects of its design and functionality.
 
 Currently, there is a significant gap between the ideal and the expected. The project goal is to minimize it.
 
