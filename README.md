@@ -53,8 +53,8 @@ raspberry pi os
 Ubuntu
 python
 pytorch
-rain open_clip
-knowledge distillation to tinyvit
+train open_clip
+distill open_clip to tinyvit
 onnx
 docker
 fastapi
