@@ -40,7 +40,7 @@ raspberry pi
 camera
 mic
 speaker
-sensors - smoke, temp, humidity, etc
+sensors - temp, humidity, etc
 relay
 servo motor
 qi transmitter and receiver
