@@ -2,7 +2,7 @@
 
 Safety Monitor Watch AI Robot
 
-I'm excited to share my Safety Monitor Watch AI Robot project. This project focuses on developing an AI robot using Adruino, Raspberry Pi and AI model trained on Colab.
+I'm excited to share my Safety Monitor Watch AI Robot project. This project focuses on developing an AI robot using Arduino, Raspberry Pi and AI model trained on Colab.
 
 I'm exploring various aspects of its design and functionality.
 
