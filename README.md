@@ -62,7 +62,7 @@ motor
 wheel
 gear box
 qi transmitter and receiver pair
-nickel-metal hydride and lithium-ion rechargeable battery - charging and level monitoring circuit
+nickel-metal hydride (NiMH) charging and monitoring with arduino
 ...etc
 ```
 ```
@@ -107,6 +107,10 @@ real-time heartbeat
 arduino on pi usb port
 <br>
 pyfirmata on pi controls arduino onboard led on/off/blink
+
+2025.0719
+<br>
+todo: arduino NiMH charger
 
 2025.0720
 <br>
