@@ -30,7 +30,7 @@ duties -
 monitor humidity
 monitor temperature
 watch plant grow
-watch youtube?
+watch youtube - move the physical mouse with servos etc and watch the display screen
 ...
 ```
 ```
@@ -39,7 +39,6 @@ arduino
 raspberry pi
 camera
 mic
-speaker
 sensors - temp, humidity, etc
 relay
 servo motor
