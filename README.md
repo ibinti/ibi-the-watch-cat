@@ -1,12 +1,12 @@
 # ibi-the-watch-cat
 
-Autonomous Safety Monitor Watch AI Robot
+Safety Monitor Watch AI Robot
 
-I'm excited to share my Autonomous Safety Monitor Watch AI Robot project. This self-explanatory project focuses on developing a mobile AI robot capable of independent safety surveillance.
+I'm excited to share my Safety Monitor Watch AI Robot project. This project focuses on developing an AI robot using Adruino, Raspberry Pi and AI model trained on Colab.
 
 It's currently in the idea stage, and I'm exploring various aspects of its design and functionality.
 
-At the moment, there exists a significant gap between the ideal ibi vs the expected ibi. Current project goal is to minimize the existing gap.
+At the moment, there exists a significant gap between the ideal ibi vs the expected ibi. Current project goal is to minimize the gap.
 
 <div align="center">
   <img src="ibi-the-watch-cat-ideal.png" alt="ideal ibi" width="350" style="display: inline-block; margin: 0 15px;">
@@ -27,24 +27,10 @@ I'm looking forward to refining these ideas as the project progresses!
 
 ```
 duties -
-watch plants grow
-watch taking pills correctly
-watch eating and drinking
-watch bathroom use
-watch kitchen use 
-watch smoke
-watch humidity
-watch temperature
-watch gas leak
-watch water leak
-watch door
-watch window
-watch neighbour cats
-watch neighbour dogs
-watch squarrel
-watch silver fish
-watch spider
+watch plant grow
 watch youtube?
+monitor humidity
+monitor temperature
 ...
 ```
 ```
@@ -56,28 +42,24 @@ mic
 speaker
 sensors - smoke, temp, humidity, etc
 relay
-motor
-wheel
-gear box
-qi transmitter and receiver pair
-nickel-metal hydride (NiMH) charging and monitoring with arduino
+servo motor
+qi transmitter and receiver
+nickel-metal hydride (NiMH)
 ...etc
 ```
 ```
 software -
 raspberry pi os
-ubuntu
+Ubuntu
 python
 pytorch
-train open_clip with adapter layer
-knowledge distillation to tinyclip or tinyvit
+rain open_clip
+knowledge distillation to tinyvit
 onnx
 docker
 fastapi
-ollama
 ssh tunnel
-.net maui blazor hybrid web app with mudblazor
-kaggle
+.net9 maui blazor hybrid web with mudblazor
 colab
 vps
 ...etc
