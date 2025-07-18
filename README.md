@@ -29,7 +29,6 @@ I'm looking forward to refining these ideas as the project progresses!
 duties -
 monitor humidity
 monitor temperature
-watch plant grow
 watch youtube? - move/click the mouse with servos etc and watch the display screen
 ...
 ```
