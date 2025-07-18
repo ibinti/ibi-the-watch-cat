@@ -30,7 +30,7 @@ duties -
 monitor humidity
 monitor temperature
 watch plant grow
-watch youtube? - move the physical mouse with servos etc and watch the display screen
+watch youtube? - move/click the mouse with servos etc and watch the display screen
 ...
 ```
 ```
