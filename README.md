@@ -30,7 +30,8 @@ duties -
 monitor humidity
 monitor temperature
 watch youtube? - move/click the mouse with servos etc and watch the display screen
-understand voice command?
+understand voice command
+understand sign language
 ...
 ```
 ```
