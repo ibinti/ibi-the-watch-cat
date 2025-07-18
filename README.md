@@ -111,7 +111,9 @@ pyfirmata on pi controls arduino onboard led on/off/blink
 <br>
 2025.0719
 
-todo: NiMH charger with relays... NC -> discharging, NO -> charging
+todo: UPS with NiMH charger and relays... NC -> discharging, NO -> charging
+
+
 <br>
 
 2025.0720
