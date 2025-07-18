@@ -108,10 +108,11 @@ arduino on pi usb port
 <br>
 pyfirmata on pi controls arduino onboard led on/off/blink
 <br>
-
+<br>
 2025.0719
 
 todo: arduino NiMH charger
+<br>
 
 2025.0720
 <br>
