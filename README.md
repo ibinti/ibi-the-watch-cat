@@ -27,10 +27,10 @@ I'm looking forward to refining these ideas as the project progresses!
 
 ```
 duties -
-watch plant grow
-watch youtube?
 monitor humidity
 monitor temperature
+watch plant grow
+watch youtube?
 ...
 ```
 ```
