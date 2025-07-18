@@ -107,9 +107,10 @@ real-time heartbeat
 arduino on pi usb port
 <br>
 pyfirmata on pi controls arduino onboard led on/off/blink
+<br>
 
 2025.0719
-<br>
+
 todo: arduino NiMH charger
 
 2025.0720
