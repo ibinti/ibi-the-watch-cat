@@ -6,7 +6,7 @@ I'm excited to share my Safety Monitor Watch AI Robot project. This project focu
 
 It's currently in the idea stage, and I'm exploring various aspects of its design and functionality.
 
-At the moment, there exists a significant gap between the ideal vs the expected. Current project goal is to minimize the gap.
+Currently, there is a significant gap between the ideal and the expected. The project goal is to minimize it.
 
 <div align="center">
   <img src="ibi-the-watch-cat-ideal.png" alt="ideal ibi" width="350" style="display: inline-block; margin: 0 15px;">
