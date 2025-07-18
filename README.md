@@ -2,8 +2,6 @@
 
 Autonomous Safety Monitor Watch AI Robot
 
-https://ibinti.com/ibi-the-watch-cat
-
 I'm excited to share my Autonomous Safety Monitor Watch AI Robot project. This self-explanatory project focuses on developing a mobile AI robot capable of independent safety surveillance.
 
 It's currently in the idea stage, and I'm exploring various aspects of its design and functionality.
@@ -108,6 +106,8 @@ arduino on pi usb port
 <br>
 pyfirmata on pi controls arduino onboard led on/off/blink
 
+youtube video link
+
 [![blinking youtube](https://img.youtube.com/vi/j8u58aLM6-E/hqdefault.jpg)](https://youtube.com/shorts/j8u58aLM6-E?feature=share)
 <br>
 <br>
@@ -124,5 +124,3 @@ todo: UPS with NiMH charger and relays... NC -> discharging, NO -> charging
 <br>
 todo: meetup
 ...
-
-https://ibinti.com/ibi-the-watch-cat
