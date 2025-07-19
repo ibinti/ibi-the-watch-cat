@@ -29,7 +29,7 @@ I'm looking forward to refining these ideas as the project progresses!
 duties -
 monitor humidity
 monitor temperature
-watch youtube? - move/click/scroll the mouse with servos etc and watch the display screen
+watch youtube? - move/click/scroll the mouse with servos etc and watch the screen
 understand voice command
 understand sign or gesture
 ...
