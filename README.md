@@ -93,10 +93,11 @@ youtube video demo
 <br>
 <br>
 2025.0719
-
 todo: UPS with NiMH charger and relays... NC -> discharging, NO -> charging
+
 <div align="center">
   <img src="ups_parts0.png" alt="ups parts" width="350" style="display: inline-block; margin: 0 15px;">
+  <img src="UPS-NiMH.png" alt="wiring diagram" width="350" style="display: inline-block; margin: 0 15px;">
 </div>
 
 <br>
