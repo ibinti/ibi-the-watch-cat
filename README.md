@@ -105,5 +105,11 @@ NiMH charger and relays... NC -> discharging, NO -> charging
 
 2025.0720
 <br>
-meetup
+AM2302 Digital Temperature and Humidity Sensor on Pi 4
+
+<div align="center">
+  <img src="dht22.png" alt="dht22" width="350" style="display: inline-block; margin: 0 15px;">
+</div>
+
+<br>
 ...
