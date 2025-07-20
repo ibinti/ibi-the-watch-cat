@@ -40,7 +40,7 @@ arduino
 raspberry pi
 camera
 mic
-sensors - AM2302 Digital Temperature and Humidity Sensor
+sensors - AM2302 (DHT22) Digital Temperature and Humidity Sensor
 relay
 servo motor
 qi transmitter and receiver
@@ -105,7 +105,7 @@ NiMH charger and relays... NC -> discharging, NO -> charging
 
 2025.0720
 <br>
-AM2302 Digital Temperature and Humidity Sensor on Pi 4
+AM2302 (DHT22) Digital Temperature and Humidity Sensor on Pi 4
 
 <div align="center">
   <img src="dht22.png" alt="dht22" width="350" style="display: inline-block; margin: 0 15px;">
