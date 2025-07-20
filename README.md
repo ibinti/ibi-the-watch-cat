@@ -94,7 +94,7 @@ youtube video demo
 <br>
 2025.0719
 <br>
-todo: NiMH charger and relays... NC -> discharging, NO -> charging
+NiMH charger and relays... NC -> discharging, NO -> charging
 
 <div align="center">
   <img src="ups_parts0.png" alt="ups parts" width="350" style="display: inline-block; margin: 0 15px;">
@@ -105,5 +105,5 @@ todo: NiMH charger and relays... NC -> discharging, NO -> charging
 
 2025.0720
 <br>
-todo: meetup
+meetup
 ...
