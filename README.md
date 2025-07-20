@@ -40,7 +40,7 @@ arduino
 raspberry pi
 camera
 mic
-sensors - temp, humidity, etc
+sensors - AM2302 Digital Temperature and Humidity Sensor
 relay
 servo motor
 qi transmitter and receiver
