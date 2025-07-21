@@ -52,16 +52,23 @@ software -
 raspberry pi os
 Ubuntu
 python
-pytorch
-train open_clip
-distill open_clip to tinyvit
-onnx
 docker
 fastapi
 ssh tunnel
 .net9 maui blazor hybrid web with mudblazor
-colab
 vps
+...etc
+```
+
+```
+ai/ml -
+pytorch
+blind source separation of mixture of mixture similiar to mixit
+reinforcement learning somehow?
+finetune open_clip for various downstream tasks
+distill open_clip to tinyvit for edge device
+onnx
+colab
 ...etc
 ```
 <br>
