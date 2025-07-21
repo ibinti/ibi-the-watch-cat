@@ -119,6 +119,8 @@ Real-time sensor readig is shown at Live Stats (https://ibinti.com/ibi-the-watch
 <br>
 todo: make a prototype moving pad with two servos for vertical and horizonal directions
 <br>
-use cardboard and masking tape. arduino needs longer usb cable extension to connect mouse pad on computer desk mouse
+use cardboard and masking tape. arduino needs longer usb cable extension to reach mouse on computer table
+<br>
+also need a little lift-up for the mouse so that the mouse pad easily move under it. here the mouse pad is a thick paper.
 
 ...
