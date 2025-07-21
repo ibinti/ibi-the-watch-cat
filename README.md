@@ -116,7 +116,7 @@ NiMH charger and relays... NC -> discharging, NO -> charging
 <br>
 AM2302 (DHT22) Digital Temperature and Humidity Sensor on Pi 4
 
-Real-time sensor readig is shown at Live Stats (https://ibinti.com/ibi-the-watch-cat)
+Real-time sensor reading is shown at Live Stats (https://ibinti.com/ibi-the-watch-cat)
 
 <div align="center">
   <img src="dht22.png" alt="dht22" width="350" style="display: inline-block; margin: 0 15px;">
