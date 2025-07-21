@@ -70,6 +70,7 @@ distill open_clip to tinyvit for edge device
 use accelerate for gpu(s) and tpu training: a100,l4,t4,t4x2,p100,v3-8,v2-8
 onnx
 colab
+ollama
 ...etc
 ```
 <br>
