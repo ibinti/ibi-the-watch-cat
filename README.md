@@ -141,6 +141,8 @@ todo: make a prototype moving pad with two servos for vertical and horizonal dir
 use cardboard and masking tape. arduino needs longer usb cable extension to reach mouse on computer table
 <br>
 also need a little lift-up for the mouse so that the mouse pad easily move under it. here the mouse pad is simply a thick paper.
+<br>
+on a second thought, there is no particular reason to keep the mouse upright normal position. in this case, i could keep the mouse in upside down and let the bottom laser diode light visible and i will simply cover a moving paper pad. this seems to be more effective and easier...
 
 ibi needs a vision feedback for position...
 
