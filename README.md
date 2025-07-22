@@ -126,7 +126,7 @@ Real-time sensor reading is shown at Live Stats (https://ibinti.com/ibi-the-watc
 
 2025.0721
 <br>
-10 Pcs 9G SG90 Micro Servo Motors arrived!
+10 Pcs 9G SG90 Micro Servo Motors arrived! so tiny and cute, i love it.
 
 <div align="center">
   <img src="servos.png" alt="servos" width="350" style="display: inline-block; margin: 0 15px;">
@@ -144,5 +144,5 @@ also need a little lift-up for the mouse so that the mouse pad easily move under
 
 ibi needs a vision feedback for position...
 
-ibi also needs a robot arm camera or robotic camera system...
+ibi needs a robot arm camera or robotic camera system, glad that i have 8 servos left!...
 
