@@ -142,7 +142,7 @@ use cardboard and masking tape. arduino needs longer usb cable extension to reac
 <br>
 also need a little lift-up for the mouse so that the mouse pad easily move under it. here the mouse pad is simply a thick paper.
 <br>
-on a second thought, there is no particular reason to keep the mouse upright normal position. in this case, i could keep the mouse in upside down and let the bottom laser diode light visible and i will simply cover a moving paper pad. this seems to be more effective and easier...
+2025.0722 - on a second thought, there is no particular reason to keep the mouse upright normal position. in this case, i could keep the mouse in upside down and let the bottom laser diode light visible and i will simply cover a moving paper pad. this seems to be more effective and easier... ok, now that i got this idea, i will use one more servo for mouse click. 
 
 ibi needs a vision feedback for position...
 
