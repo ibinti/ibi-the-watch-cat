@@ -124,6 +124,16 @@ Real-time sensor reading is shown at Live Stats (https://ibinti.com/ibi-the-watc
 
 <br>
 
+2025.0721
+<br>
+10 Pcs 9G SG90 Micro Servo Motors arrived!
+
+<div align="center">
+  <img src="servos.png" alt="servos" width="350" style="display: inline-block; margin: 0 15px;">
+</div>
+
+<br>
+
 2025.0727
 <br>
 todo: make a prototype moving pad with two servos for vertical and horizonal directions
