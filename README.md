@@ -135,7 +135,7 @@ Real-time sensor reading is shown at Live Stats (https://ibinti.com/ibi-the-watc
 <br>
 2025.0724
 
-todo: add pi4 camera
+added pi4 camera
 <br>
 
 2025.0727
