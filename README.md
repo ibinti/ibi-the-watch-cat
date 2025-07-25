@@ -137,6 +137,8 @@ Real-time sensor reading is shown at Live Stats (https://ibinti.com/ibi-the-watc
 2025.0724
 <br>
 added pi4 camera. sensor readings on webcam view, light blue is measured w/ pi4, yellow w/ arduino
+<br>
+tip: install picamera2 and opencv using apt install system wide, and then create venv w/ ` python3 -m venv --system-site-packages venv` this is not an ideal, but due to compatibility issues such as python version and numpy==1.24.2, best workaround so far.
 
 <div align="center">
   <img src="ibi-the-watch-cat-2025-07-24 16-58-54.png" alt="bi-the-watch-cat-2025-07-24 16-58-54" width="1280" style="display: inline-block; margin: 0 15px;">
