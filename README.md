@@ -133,10 +133,14 @@ Real-time sensor reading is shown at Live Stats (https://ibinti.com/ibi-the-watc
 </div>
 
 <br>
-2025.0724
 
-added pi4 camera
+2025.0724
 <br>
+added pi4 camera
+
+<div align="center">
+  <img src="ibi-the-watch-cat-2025-07-24 16-58-54.png" alt="bi-the-watch-cat-2025-07-24 16-58-54" width="1280" style="display: inline-block; margin: 0 15px;">
+</div>
 
 2025.0727
 <br>
