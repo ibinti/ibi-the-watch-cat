@@ -148,7 +148,7 @@ tip: install picamera2 and opencv using `apt install` system wide instead of `pi
 <br>
 todo: make a prototype moving pad with two servos for vertical and horizonal directions
 <br>
-use cardboard and masking tape. arduino needs longer usb cable extension to reach mouse on computer table
+use cardboard, masking tape and cable zip tie. arduino needs longer usb cable extension to reach mouse on computer table
 <br>
 also need a little lift-up for the mouse so that the mouse pad easily move under it. here the mouse pad is simply a thick paper.
 <br>
