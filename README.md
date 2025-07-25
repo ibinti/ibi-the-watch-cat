@@ -152,6 +152,12 @@ also need a little lift-up for the mouse so that the mouse pad easily move under
 <br>
 2025.0722 - on a second thought, there is no particular reason to keep the mouse upright normal position. in this case, i could keep the mouse in upside down and let the bottom laser diode light visible and i will simply cover a moving paper pad. this seems to be more effective and easier... ok, now that i got this idea, i will use one more servo for mouse click. 
 
+2025.0724 - got an idea. use two paint roller like structure for moving pad control.
+
+<div align="center">
+  <img src="idea-moving-pad.png" alt="idea-moving-pad" width="350" style="display: inline-block; margin: 0 15px;">
+</div>
+
 ibi needs a vision feedback for position...
 
 ibi needs a robot arm camera or robotic camera system, glad that i have 7 servos left!...
