@@ -147,21 +147,21 @@ tip: install picamera2 and opencv using `apt install` system wide instead of `pi
   <img src="ibi-the-watch-cat-2025-07-24 16-58-54.png" alt="bi-the-watch-cat-2025-07-24 16-58-54" width="1280" style="display: inline-block; margin: 0 15px;">
 </div>
 
-2025.0727
+2025.0726
 <br>
-todo: make a prototype moving pad with two servos for vertical and horizonal directions
+proof of concept moving pad with two servos for vertical and horizonal directions
 <br>
 use cardboard, masking tape and zip tie. arduino needs longer usb cable extension to reach mouse on computer table
 <br>
-also need a little lift-up for the mouse so that the mouse pad easily move under it. here the mouse pad is simply a thick paper.
-<br>
-2025.0722 - on a second thought, there is no particular reason to keep the mouse upright normal position. in this case, i could keep the mouse in upside down and let the bottom laser diode light visible and i will simply cover a moving paper pad. this seems to be more effective and easier... ok, now that i got this idea, i will use one more servo for mouse click. 
+there is no particular reason to keep the mouse upright normal position. in this case, i could keep the mouse in upside down and let the bottom laser diode light visible and i will simply cover a moving paper pad. use two paint roller like structure for moving pad control. this seems to be more effective and easier... use two more servos for mouse left and right click, and two more servos for scroll, and last one for shutter or hopping
 
-2025.0724 - got an idea. use two paint roller like structure for moving pad control.
+total 7 sg90 servos
 
 <div align="center">
   <img src="idea-moving-pad.png" alt="idea-moving-pad" width="350" style="display: inline-block; margin: 0 15px;">
 </div>
+
+**todos:**
 
 ibi needs a vision feedback for mouse position - use pi camera and object detection model like yolo ...
 
