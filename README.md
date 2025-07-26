@@ -153,7 +153,7 @@ proof of concept moving pad with two servos for vertical and horizonal direction
 <br>
 use cardboard, masking tape and zip tie. arduino needs longer usb cable extension to reach mouse on computer table
 <br>
-there is no particular reason to keep the mouse upright normal position. in this case, i could keep the mouse in upside down and let the bottom laser diode light visible and i will simply cover a moving paper pad. use two paint roller like structure for moving pad control. this seems to be more effective and easier... use two more servos for mouse left and right click, and two more servos for scroll, and last one for shutter or hopping
+there is no particular reason to keep the mouse upright normal position. keep the mouse in upside down and let the bottom laser diode light visible and simply cover a moving paper pad. use two paint roller like structure for moving pad control. this seems to be more effective and easier... use two more servos for mouse left and right click, and two more for scrolling, and last one for shutter or hopping
 
 total 7 sg90 servos
 
