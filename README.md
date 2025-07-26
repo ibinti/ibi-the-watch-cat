@@ -163,7 +163,7 @@ total 7 sg90 servos
 
 **todos:**
 
-ibi needs a vision feedback for mouse position - use pi camera and object detection model like yolo ...
+ibi needs a vision feedback for mouse position
 
-ibi needs a robot arm camera or robotic camera system - use pi camera and sg90 servos ...
+ibi needs a robot arm camera or robotic camera system
 
