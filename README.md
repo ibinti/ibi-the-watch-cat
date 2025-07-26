@@ -2,6 +2,9 @@
 
 Safety Monitor Watch AI Robot
 
+blog on the progess here:
+https://github.com/ibinti/ibi-the-watch-cat/wiki
+
 I'm excited to share my Safety Monitor Watch AI Robot project. This project focuses on developing an AI robot using Arduino, Raspberry Pi and AI model trained on Colab.
 
 I'm exploring various aspects of its design and functionality.
