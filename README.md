@@ -57,7 +57,7 @@ docker
 fastapi
 ssh tunnel
 .net9 maui blazor hybrid web with mudblazor
-vps - vultr instance in osaka japan
+vps - vultr in osaka japan
 ...etc
 ```
 
