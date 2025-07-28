@@ -159,9 +159,14 @@ total 7 sg90 servos
 </div>
 
 <br>
-2025.0726
+2025.0728
 
 two eyes: watch youtube and real world
+<div align="center">
+  <img src="two-eyes-2025-07-28 10-04-16.png" alt="two eyes" width="640" style="display: inline-block; margin: 0 15px;">
+</div>
+
+
 
 **todos:**
 
