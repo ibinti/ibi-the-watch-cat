@@ -49,8 +49,8 @@ nickel-metal hydride (NiMH)
 ```
 ```
 software -
-raspberry pi os
-ubuntu
+raspberry pi os 12 bookworm
+ubuntu 24.04
 python
 docker
 fastapi
