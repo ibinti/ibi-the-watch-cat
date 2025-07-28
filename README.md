@@ -62,7 +62,8 @@ vps - vultr in osaka japan
 ```
 
 ```
-ai/ml -
+ai -
+neural network
 pytorch
 blind source separation of mixture of mixture similiar to mixit
 reinforcement learning somehow?
