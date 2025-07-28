@@ -172,5 +172,5 @@ two eyes: watch youtube and real world
 
 ibi needs a vision feedback for model training
 
-ibi needs a robot arm camera or robotic camera system
+ibi needs a robotic camera arm
 
