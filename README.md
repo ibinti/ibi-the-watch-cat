@@ -170,7 +170,7 @@ two eyes: watch youtube and real world
 
 **todos:**
 
-ibi needs a vision feedback for mouse position
+ibi needs a vision feedback for model training
 
 ibi needs a robot arm camera or robotic camera system
 
