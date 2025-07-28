@@ -36,13 +36,13 @@ understand sign or gesture
 ```
 ```
 hardware -
-arduino
-raspberry pi
-camera
+arduino uno
+raspberry pi 4 4MB
+camera - pi cam, usb webcam
 mic
 sensors - AM2302 (DHT22) Digital Temperature and Humidity Sensor
 relay
-servo motor
+servo motor - sg90
 qi transmitter and receiver
 nickel-metal hydride (NiMH)
 ...etc
@@ -56,7 +56,7 @@ docker
 fastapi
 ssh tunnel
 .net9 maui blazor hybrid web with mudblazor
-vps
+vps - vultr instance in osaka japan
 ...etc
 ```
 
