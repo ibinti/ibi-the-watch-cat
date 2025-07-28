@@ -49,6 +49,7 @@ nickel-metal hydride (NiMH)
 ```
 ```
 software -
+arduino ide 1.8.19
 raspberry pi os 12 bookworm
 ubuntu 24.04
 python
