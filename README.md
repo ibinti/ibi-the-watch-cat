@@ -9,7 +9,7 @@ I'm exploring various aspects of its design and functionality.
 Currently, there is a significant gap between the ideal and the expected. The project goal is to minimize it.
 
 <div align="center">
-  <img src="https://github.com/ibinti/ibi-the-watch-cat/png/ibi-the-watch-cat-ideal.png" alt="ideal ibi" width="350" style="display: inline-block; margin: 0 15px;">
+  <img src="/ibinti/ibi-the-watch-cat/png/ibi-the-watch-cat-ideal.png" alt="ideal ibi" width="350" style="display: inline-block; margin: 0 15px;">
   <img src="https://github.com/ibinti/ibi-the-watch-cat/png/ibi-the-watch-cat-expected.png" alt="expected ibi" width="350" style="display: inline-block; margin: 0 15px;">
 </div>
 
