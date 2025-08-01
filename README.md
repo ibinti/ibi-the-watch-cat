@@ -45,6 +45,8 @@ relay
 servo motor - sg90
 qi transmitter and receiver
 nickel-metal hydride (NiMH)
+portable display or tablet
+mouse
 ...etc
 ```
 ```
