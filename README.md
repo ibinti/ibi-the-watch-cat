@@ -177,5 +177,5 @@ two eyes
 
 ibi needs a vision feedback for model training
 
-ibi needs a robotic camera arm
+ibi needs a robotic camera system - eye ball and neck
 
