@@ -51,9 +51,9 @@ mouse
 ```
 ```
 software -
-arduino ide 1.8.19
+arduino ide 1.8.19 on pi
 raspberry pi os 12 bookworm
-ubuntu 24.04
+ubuntu 24.04 for server hub
 python
 docker
 fastapi
