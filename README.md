@@ -1,12 +1,12 @@
 # ibi-the-watch-cat
 
-Safety Monitor Watch AI Robot
+An AI robot that observes its surroundings and watches YouTube.
 
-I'm excited to share my Safety Monitor Watch AI Robot project. This project focuses on developing an AI robot using Arduino, Raspberry Pi and AI model trained on Colab.
+The current project is a proof-of-concept prototype for a robot that uses Arduinos, Raspberry Pis, and AI models.
 
 I'm exploring various aspects of its design and functionality.
 
-Currently, there is a significant gap between the ideal and the expected. The project goal is to minimize it.
+There is a significant gap between the ideal and the expected. The goal is to minimize it.
 
 <div align="center">
   <img src="png/ibi-the-watch-cat-ideal.png" alt="ideal ibi" width="350" style="display: inline-block; margin: 0 15px;">
@@ -18,10 +18,13 @@ Currently, there is a significant gap between the ideal and the expected. The pr
 I'm thinking through things like:
 
     Key features: What specific tasks will it perform?
+    -> observe surroundings and watch youtube
 
     Navigation: How will it move independently?
+    -> ai model controls two/four wheels 
 
     Sensors: What technologies will it use to perceive its environment?
+    -> some sensors, but mainly ai vision models
 
 I'm looking forward to refining these ideas as the project progresses!
 
