@@ -66,7 +66,8 @@ ssh tunnel
 mudblazor (https://mudblazor.com)
 vps - vultr in osaka japan
     - best to test worst case control lags as it is quite far from vancouver canada
-colab - ai model training and inferencing - somewhere unknown google server
+colab - ai model training and inferencing 
+      - somewhere unknown google server
 ...etc
 ```
 
