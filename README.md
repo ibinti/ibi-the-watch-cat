@@ -39,11 +39,11 @@ understand sign or gesture
 ```
 ```
 hardware -
-arduino uno
+arduino uno, nano
 raspberry pi 4 4MB
 camera - pi cam, usb webcam
 mic
-sensors - AM2302 (DHT22) Digital Temperature and Humidity Sensor
+sensor - AM2302 (DHT22) Digital Temperature and Humidity Sensor
 relay
 servo motor - sg90
 qi transmitter and receiver
@@ -63,7 +63,8 @@ fastapi
 ssh tunnel
 .net9 maui blazor hybrid web (https://github.com/ibinti/ibi-the-watch-cat/blob/main/.net9-maui-blazor-hybrid-web.md)
 mudblazor (https://mudblazor.com)
-vps - vultr in osaka japan
+vps - vultr in osaka japan, best to test worst case control lags as it is quite far from vancouver canada
+colab - ai model training and inferencing - somewhere unknown google server
 ...etc
 ```
 
