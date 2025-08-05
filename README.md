@@ -179,3 +179,5 @@ two eyes
 ibi needs a vision feedback
 
 ibi needs a robotic camera system (i.e., an eyeball and neck)
+
+ibi needs a hand-like system (i.e., move and click mouse)
