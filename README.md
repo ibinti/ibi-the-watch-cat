@@ -176,7 +176,6 @@ two eyes
 
 **todos:**
 
-ibi needs a vision feedback for model training
+ibi needs a vision feedback
 
-ibi needs a robotic camera system - eye ball and neck
-
+ibi needs a robotic camera system (i.e., an eyeball and neck)
