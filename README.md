@@ -180,6 +180,6 @@ ibi needs a vision feedback system - in progress
 
 ibi needs a robotic camera system (i.e., an eyeball and neck)
 
-ibi needs a hand-like system to move and click mouse
+ibi needs a hand-like system to click mouse
 
 ibi needs a leg-like system to move around (i.e., two/four wheels)
