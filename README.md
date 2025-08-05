@@ -176,7 +176,7 @@ two eyes
 
 **todos:**
 
-ibi needs a vision feedback
+ibi needs a vision feedback - in progress
 
 ibi needs a robotic camera system (i.e., an eyeball and neck)
 
