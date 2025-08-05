@@ -24,7 +24,7 @@ I'm thinking through things like:
     -> ai model controls two/four wheels 
 
     Sensors: What technologies will it use to perceive its environment?
-    -> some sensors, but mainly ai vision models
+    -> some sensors, but mainly cameras for vision world models
 
 I'm looking forward to refining these ideas as the project progresses!
 
