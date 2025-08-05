@@ -53,7 +53,7 @@ mouse
 ...etc
 ```
 ```
-software -
+software and ai -
 arduino ide 1.8.19 on pi
 raspberry pi os 12 bookworm
 ubuntu 24.04 for server hub
@@ -68,11 +68,6 @@ vps - vultr in osaka japan
     - best to test worst case control lags as it is quite far from vancouver canada
 colab - ai model training and inferencing 
       - somewhere unknown google server
-...etc
-```
-
-```
-ai -
 neural network
 pytorch
 blind source separation of mixture of mixture similiar to mixit
@@ -81,7 +76,6 @@ finetune open_clip for various downstream tasks
 distill open_clip to tinyvit for edge device
 use accelerate for gpu(s) and tpu training: a100,l4,t4,t4x2,p100,v3-8,v2-8
 onnx
-colab
 ollama
 ...etc
 ```
