@@ -1,8 +1,8 @@
 # servo.md
 
-analog 180 positional sg90
+analog 180 positional sg90 : popular hobby servo, noticeable individual variations in specs, i.e, hobby quality.
 
-disital 360 continous ft90r
+digital 360 continous ft90r : digital servo is better than analog for ibi at the expense of power use 
 
 4 Sets Digital Servo Feetech FT90R 360 Degree Continuous Rotation Micro RC Servo with Wheel :
 https://www.amazon.ca/dp/B07JDSX47S/?coliid=I2RNK6D1XG8RDS&colid=2PXH01F34G5EI&ref_=list_c_wl_lv_ov_lig_dp_it&th=1
