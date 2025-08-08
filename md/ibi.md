@@ -1,4 +1,4 @@
-# ibi pages
+# ibi.md
 
 This is **bold** and this is *timid*.
 
