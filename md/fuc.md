@@ -26,6 +26,8 @@ docker-compose pull code
 
 docker restart api
 
+docker rm
+
 docker ps -a
 
 docker images
