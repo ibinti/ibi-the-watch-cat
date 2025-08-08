@@ -2,7 +2,7 @@
 
 ## the quality and performance of servo motor varies signifcantly. hobby servo is ok for proof-of-concept prototype project. use accordingly. do not expect it will do what you want
 
-analog 180 positional sg90 : popular hobby servo, noticeable individual variations in specs, i.e, hobby quality.
+analog 180 positional sg90 : popular hobby servo, noticeable individual variations in specs
 
 digital 360 continous ft90r : digital servo is better than analog for ibi at the expense of power use 
 
