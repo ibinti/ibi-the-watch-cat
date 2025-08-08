@@ -1,6 +1,6 @@
 # servo.md
 
-## the quality and performance of servo motor varies signifcantly. hobby servo is ok for proof-of-concept prototype. use accordingly. do not expect it will do reliably what you want
+## the performance of servo motor varies signifcantly. hobby servo is ok for proof-of-concept prototype. use accordingly. do not expect it will do reliably what you want
 
 analog 180 positional sg90 : popular hobby servo, noticeable individual variations in specs
 
