@@ -53,3 +53,5 @@ journalctl -u ibi -f
 source ibi/venv/bin/activate
 
 rsync -avz --progress --delete
+
+sudo dpkg -i xyz.deb 
