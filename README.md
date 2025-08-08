@@ -183,5 +183,3 @@ ibi needs a robotic camera system (i.e., an eyeball and neck)
 ibi needs a hand-like system to click mouse
 
 ibi needs a leg-like system to move around (i.e., two/four wheels)
-
-[ibi](md/ibi.md)
