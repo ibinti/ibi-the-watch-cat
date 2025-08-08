@@ -176,10 +176,11 @@ two eyes
 
 **todos:**
 
-ibi needs a vision feedback system - in progress
+ibi needs a vision feedback system --> in progress
 
 ibi needs a robotic camera system (i.e., an eyeball and neck)
 
-ibi needs a hand-like system to click mouse
+ibi needs a hand-like system to click mouse --> mouse control with HID device #45
 
-ibi needs a leg-like system to move around (i.e., two/four wheels)
+ibi needs a leg-like system to move around (i.e., two/four wheels) --> FT90R 360 Degree Continuous Rotation Digital Servo #44
+
