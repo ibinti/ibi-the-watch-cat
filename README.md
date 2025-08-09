@@ -80,7 +80,7 @@ ollama
 ...etc
 ```
 
-**todos:**
+## **todos**
 
 ibi needs a vision feedback system --> in progress
 
