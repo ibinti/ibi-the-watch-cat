@@ -28,8 +28,8 @@ I'm thinking through things like:
 
 I'm looking forward to refining these ideas as the project progresses!
 
+## duties
 ```
-duties -
 monitor humidity
 monitor temperature
 watch youtube? - move/click/scroll the mouse with servos etc and watch the screen
@@ -37,8 +37,8 @@ understand voice command
 understand sign or gesture
 ...
 ```
+## hardware
 ```
-hardware -
 arduino uno, nano
 raspberry pi 4 4MB
 camera - pi cam, usb webcam
@@ -52,8 +52,8 @@ portable display or tablet
 mouse
 ...etc
 ```
+## software and ai
 ```
-software and ai -
 arduino ide 1.8.19 on pi
 raspberry pi os 12 bookworm
 ubuntu 24.04 for server hub
