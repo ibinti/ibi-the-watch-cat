@@ -44,7 +44,7 @@ raspberry pi 4 4MB
 camera - pi cam, usb webcam
 mic
 AM2302 (DHT22) - Digital Temperature and Humidity Sensor
-DS18B20 - Programmable 1-Wire Digital Temperature Sensor
+DS18B20 - 1-Wire Digital Temperature Sensor
 relay
 servo motor - sg90 180 360
 qi transmitter and receiver
