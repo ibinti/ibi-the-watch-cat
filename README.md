@@ -68,7 +68,7 @@ vps - vultr in osaka japan
     - best to test worst case control lags as it is quite far from vancouver canada
 colab - ai model training and inferencing 
       - somewhere unknown google server
-neural network
+neural network - magic happens here
 pytorch
 blind source separation of mixture of mixture similiar to mixit
 reinforcement learning somehow?
