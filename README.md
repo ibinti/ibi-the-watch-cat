@@ -60,7 +60,7 @@ ubuntu 24.04 for server hub
 python
 docker
 fastapi
-ssh tunnel
+ssh tunnel - local and reverse proxy
 .net9 maui blazor hybrid web 
 (https://github.com/ibinti/ibi-the-watch-cat/blob/main/.net9-maui-blazor-hybrid-web.md)
 mudblazor (https://mudblazor.com)
