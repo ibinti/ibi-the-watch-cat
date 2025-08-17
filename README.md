@@ -55,14 +55,13 @@ portable display or tablet
 ```
 ## software and ai
 ```
-arduino ide 1.8.19 on pi
+arduino ide 1.8.19 on pi - c++
 raspberry pi os 12 bookworm
 ubuntu 24.04 for server hub
-python
 docker
-fastapi
+fastapi - python
 ssh tunnel - local and reverse proxy
-.net9 maui blazor hybrid web 
+.net9 maui blazor hybrid web - c# 
 (https://github.com/ibinti/ibi-the-watch-cat/blob/main/.net9-maui-blazor-hybrid-web.md)
 mudblazor (https://mudblazor.com)
 vps - vultr in osaka japan
