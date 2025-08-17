@@ -32,6 +32,7 @@ I'm looking forward to refining these ideas as the project progresses!
 ```
 monitor humidity
 monitor temperature
+observe room environment
 watch youtube? - move/click/scroll the mouse with servos etc and watch the screen
 understand voice command
 understand sign or gesture
