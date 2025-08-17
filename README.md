@@ -2,7 +2,7 @@
 
 An AI robot that observes its surroundings and watches YouTube.
 
-The current project is a proof-of-concept prototype for a robot that uses Arduinos, Raspberry Pis, and AI models.
+The current project is a proof-of-concept prototype for a robot that uses microcontrollers, sigle-board computers, and AI models.
 
 I'm exploring various aspects of its design and functionality.
 
