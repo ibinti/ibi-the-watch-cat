@@ -40,8 +40,8 @@ understand sign or gesture
 ```
 ## hardware
 ```
-arduino uno, micro, nano, nano esp32
-raspberry pi 4 4MB
+arduino uno, micro, nano
+raspberry pi 4 4MB, pico
 camera - pi cam, usb webcam
 mic
 AM2302 (DHT22) - Digital Temperature and Humidity Sensor
@@ -50,7 +50,7 @@ relay
 servo motor - sg90 180 360
 qi transmitter and receiver
 nickel-metal hydride (NiMH)
-portable display 
+portable display
 android tablet as display and possible extra computing source
 ...etc
 ```
