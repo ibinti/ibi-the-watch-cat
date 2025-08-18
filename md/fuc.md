@@ -2,6 +2,8 @@
 
 ## frequently used commands
 
+sudo raspi-config
+
 reboot
 
 ls -lsh
