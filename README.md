@@ -33,7 +33,7 @@ I'm looking forward to refining these ideas as the project progresses!
 monitor humidity
 monitor temperature
 observe room environment
-watch youtube - control pi os desktop with mouse and play youtube with browser
+watch youtube - control pi os desktop with hid mouse and play youtube with browser
 understand voice command
 understand sign or gesture
 ...
