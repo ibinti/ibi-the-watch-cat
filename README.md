@@ -50,7 +50,8 @@ relay
 servo motor - sg90 180 360
 qi transmitter and receiver
 nickel-metal hydride (NiMH)
-portable display or tablet
+portable display 
+android tablet as display and possible extra computing source
 ...etc
 ```
 ## software and ai
