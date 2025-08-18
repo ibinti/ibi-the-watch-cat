@@ -40,7 +40,7 @@ understand sign or gesture
 ```
 ## hardware
 ```
-arduino micro, nano, uno
+arduino micro, nano, uno./
 raspberry pi 4 4MB, pico
 camera - pi cam, usb webcam
 mic
