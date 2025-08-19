@@ -2,6 +2,8 @@
 
 With the help of buck converters, I think the MagSafe power adapters that outlived their respective MacBooks can become excellent power sources for the 5V robotics projects.
 
+chatting with gemini
+
 why magsafe has 5 pins?
 
 The classic Apple MagSafe connector for MacBooks has five pins. 🔌 The pins serve specific functions to ensure a safe and efficient charge. The design also allows for the connector to be reversible, meaning it can be plugged in facing either direction.
@@ -24,7 +26,7 @@ The symmetrical arrangement of the power and ground pins allows the connector to
 
 This video explains what MagSafe is, how it works, and shows a teardown of the MagSafe connector to reveal its inner workings.
 
-can i use geound and v+ pins for my other devices that has buck converter for 5v use
+can i use ground and v+ pins for my other devices that has buck converter for 5v use
 
 Yes, it's possible to use the ground and V+ pins from a MagSafe adapter for other devices, but you can't just plug them in and expect a stable voltage. The MagSafe power brick is not a simple power supply. The adapter's output voltage is not constant and will only switch to its full, higher voltage (like 14.5V to 20V depending on the model) after it detects a specific resistive load on its data pin.
 
