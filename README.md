@@ -87,9 +87,9 @@ ollama
 
 ibi needs a vision feedback system --> in progress
 
-ibi needs a hand-like system to click mouse --> #45
+ibi needs a hid mouse --> #45
 
-ibi needs a robotic camera system (i.e., an eyeball and neck) --> #19
+ibi needs a 3 dof servo camera --> #19
 
 ibi needs a leg-like system to move around (i.e., two/four wheels) --> #44
 
