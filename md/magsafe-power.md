@@ -1,5 +1,7 @@
 # magsafe power
 
+With the help of buck converters, I think the MagSafe power adapters that outlived their respective MacBooks can become excellent power sources for the 5V robotics projects.
+
 why magsafe has 5 pins?
 
 The classic Apple MagSafe connector for MacBooks has five pins. 🔌 The pins serve specific functions to ensure a safe and efficient charge. The design also allows for the connector to be reversible, meaning it can be plugged in facing either direction.
