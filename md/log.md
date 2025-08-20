@@ -6,6 +6,11 @@
 3 dof pi cam, used three sg90 to create a mechanism for Pitch -> Yaw -> Roll
 
 <br>
+2025.0816
+
+chicken detected
+
+<br>
 2025.0809
 
 blazor united servers at osaka, toronto and colab receive messages sent from pi signalrcore at vancouver
