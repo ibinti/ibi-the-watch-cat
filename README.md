@@ -89,7 +89,7 @@ ibi needs a vision feedback system --> in progress
 
 ibi needs a hid mouse --> #45
 
-ibi needs a 3 dof servo camera --> #19
+ibi needs battery power to move around --> #57
 
-ibi needs a leg-like system to move around (i.e., two/four wheels) --> #44
+ibi needs four wheels and sg90 360 degree to move around --> #44
 
