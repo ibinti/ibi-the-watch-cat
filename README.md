@@ -41,6 +41,7 @@ understand sign or gesture
 ## hardware
 ```
 arduino micro, nano, uno
+esp32 c3, c6, c5
 raspberry pi 4 4MB, pico
 camera - pi cam, usb webcam
 mic
