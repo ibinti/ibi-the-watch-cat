@@ -84,6 +84,8 @@ ollama
 
 ## todos
 
+learn and use KiCad --> #59, in progress
+
 ibi needs a vision feedback system --> in progress
 
 ibi needs a hid mouse --> #45
