@@ -1,6 +1,25 @@
 # log.md
 
 <br>
+2025.0827
+
+arduino pro micro hid mouse
+
+pyautogui desktop capture and mouse position and mouse click
+
+<br>
+2025.0826
+
+buck converter
+
+sg90 360 degree
+
+<br>
+2025.0825
+
+usb port name to nano/uno
+
+<br>
 2025.0819
 
 3 dof pi cam, used three sg90 to create a mechanism for Pitch -> Yaw -> Roll
