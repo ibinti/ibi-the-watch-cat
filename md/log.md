@@ -1,6 +1,11 @@
 # log.md
 
 <br>
+2025.0828
+
+kiosk runs for two hours with 8x1.2V nimh + buck conveter 
+
+<br>
 2025.0827
 
 arduino pro micro hid mouse
