@@ -84,13 +84,4 @@ ollama
 
 ## todos
 
-learn and use KiCad --> #59
-
 ibi needs a vision feedback system --> in progress
-
-ibi needs a hid mouse --> #45
-
-ibi needs battery power --> #57
-
-ibi needs four wheels and 360 degree contineous sg90 --> #44
-
