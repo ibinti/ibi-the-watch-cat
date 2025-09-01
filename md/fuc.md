@@ -42,6 +42,8 @@ vi requirements.txt
 
 vi Dockerfile.api
 
+sudo systemctl daemon-reload
+
 sudo systemctl start ibi
 
 sudo systemctl stop ibi
