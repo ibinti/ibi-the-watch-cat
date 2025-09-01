@@ -1,5 +1,10 @@
 # log.md
 
+2025.0831
+
+accidental buck conveter ups 
+
+<br>
 2025.0828
 
 kiosk runs for two hours with 8x1.2V nimh + buck conveter 
