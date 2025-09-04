@@ -2,6 +2,8 @@
 
 2025.0903
 
+pi0 power also does not recognize full power either. maybe due to thin breakout dupont lines are not enough to drive full current. when sdcard reader was plugged in, low voltage warning showed up. measured the power supply voltage, it is 5.1V as it should be. so the issue is the dupont cables from power supply to pi0 5V pin. i may need to physically modify the gpio header connector to accomodate proper 5V and gnd pin connection.  
+
 x11 -> no good, stick to wayland labwc
 
 pi1 vcc was wrong (it was vcc for cooling fan from display, this caused low voltage warning and pre-mature shutdown, now pi1 power behaviour should resemble pi0), use usb-c for sure
