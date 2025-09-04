@@ -21,7 +21,8 @@ official arduino is just "micro"
 
 2025.0831
 
-accidental buck conveter ups 
+accidental buck converter ups. can sustain pi0 and pi1 for 1 hour. full recharging 2~3 days 
+to avoid indefitely trickle charging, do discharge excercise at least every 3 days. like regular excercise if ibi is a real cat
 
 <br>
 2025.0828
