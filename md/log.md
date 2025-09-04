@@ -1,5 +1,24 @@
 # log.md
 
+2025.0903
+
+x11 -> no good, stick to wayland labwc
+
+pi1 vcc was wrong (it was vcc for cooling fan from display, this caused low voltage warning and pre-mature shutdown, now pi1 power behaviour should resemble pi0), use usb-c for sure
+
+2025.0903
+
+pi0 mouse control cmds => uno output d2-d10 => pro micro input_pullup d2-d10 => pi1 mouse being controlled by pi0 code
+
+2025.0902
+
+soldered pro micro pins. thought i fried it. there is a active low rst (reset) pin. this will allow uploading the sketch when not uploading normally
+
+2025.0901
+
+"pro micro" is not official arduino product. it is made by other company. 
+official arduino is just "micro"
+
 2025.0831
 
 accidental buck conveter ups 
