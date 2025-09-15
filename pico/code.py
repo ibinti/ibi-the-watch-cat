@@ -3,7 +3,9 @@
 import time
 import usb_hid
 from adafruit_hid.mouse import Mouse
-
+"""
+lib/adafruit_hid
+"""
 # Initialize the Mouse object
 # The USB HID device must be a mouse
 try:
