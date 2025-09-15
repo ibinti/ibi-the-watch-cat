@@ -2,6 +2,8 @@
 
 ## frequently used commands
 
+ifconfig --> ip addr show wlan0
+
 sudo raspi-config
 
 reboot
