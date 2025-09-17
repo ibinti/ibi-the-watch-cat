@@ -1,5 +1,10 @@
 # log.md
 
+2025.0916
+
+esp32-c3 super mini works for ble hid keyboard and ble hid mouse simultaneously
+use vs code with platformio extension, and ESP32-BLE-Combo lib from github
+
 2025.0903
 
 pi0 power also does not recognize full power either. maybe due to thin breakout dupont lines are not enough to drive full current. when sdcard reader was plugged in, low voltage warning showed up. measured the power supply voltage, it is 5.1V as it should be. so the issue is the dupont cables from power supply to pi0 5V pin. i may need to physically modify the gpio header connector to accomodate proper 5V and gnd pin connection.  
