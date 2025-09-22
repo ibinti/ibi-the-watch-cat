@@ -1,5 +1,11 @@
 # log.md
 
+2025.0921
+
+esp32-c3 super mini works for wifi and ble keyboard and ble mouse, all at the same time.
+wifi did not work when plugged into breadboard, while ble still worked. weirdo. both wifi and ble use 2.4GHz, anyway. maybe signal strength due to faraday cage effect or whatever...
+wasted a few days wondering why wifi does not work now, when first time testing worked. at last i know why.
+
 2025.0916
 
 esp32-c3 super mini works for ble hid keyboard and ble hid mouse simultaneously
