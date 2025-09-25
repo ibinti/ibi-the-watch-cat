@@ -1,5 +1,12 @@
 # log.md
 
+2025.0925
+
+gone: one arduino nano
+
+gone: one esp32-c3 super mini
+
+
 2025.0921
 
 esp32-c3 super mini works for wifi and ble keyboard and ble mouse, all at the same time.
