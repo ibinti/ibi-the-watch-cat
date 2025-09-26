@@ -1,5 +1,10 @@
 # log.md
 
+2025.0926
+
+ordered aliexpress: Raspberry Pi Pico and ESP32 WROOM-32 
+
+
 2025.0925
 
 gone: one arduino nano
