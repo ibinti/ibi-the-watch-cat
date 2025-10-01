@@ -38,9 +38,8 @@ watch youtube - control desktop with hid mouse and play youtube with browser
 ```
 ## hardware
 ```
-arduino micro, nano, uno
-esp32 c3, c6, c5
-raspberry pi 4 4MB, pico
+esp32
+raspberry pi, pico
 camera - pi cam, usb webcam
 mic
 AM2302 (DHT22) - Digital Temperature and Humidity Sensor
@@ -55,19 +54,18 @@ android tablet as display and possible extra computing source
 ```
 ## software and ai
 ```
-arduino ide 1.8.19 on pi - c++
 raspberry pi os 12 bookworm
 ubuntu 24.04 for server hub
 docker
 fastapi - python
 ssh tunnel - local and reverse proxy
 real vnc viewer
+vs code with platformio and pymaker
 vs code server
 .net9 maui blazor hybrid web - c# 
 (https://github.com/ibinti/ibi-the-watch-cat/blob/main/.net9-maui-blazor-hybrid-web.md)
 mudblazor (https://mudblazor.com)
-vps - vultr in osaka japan
-    - best to test worst case control lags as it is quite far from vancouver canada
+vps - vultr in osaka japan and toronto canada
 colab - ai model training and inferencing 
       - somewhere unknown google server
 neural network - magic happens here
