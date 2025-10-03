@@ -1,5 +1,24 @@
 # log.md
 
+2025.1003
+
+enabled uart1,2,3 on pi0.
+
+```
+sudo vi /boot/firmware/config.txt
+[all]
+enable_uart=1
+dtoverlay=uart2,txpin=0,rxpin=1
+dtoverlay=uart3,txpin=2,rxpin=3
+```
+
+uart1 for pico-0
+
+uart2 for pico-1
+
+uart2 for esp32
+
+
 2025.0926
 
 ordered aliexpress: Raspberry Pi Pico and ESP32 WROOM-32 
