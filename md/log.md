@@ -12,11 +12,7 @@ dtoverlay=uart2,txpin=0,rxpin=1
 dtoverlay=uart3,txpin=2,rxpin=3
 ```
 
-uart1 for pico-0
-
-uart2 for pico-1
-
-uart2 for esp32
+uart1 for pico-0, uart2 for pico-1, uart2 for esp32
 
 
 2025.0926
