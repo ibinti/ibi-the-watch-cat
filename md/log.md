@@ -1,5 +1,36 @@
 # log.md
 
+2025.1007
+
+ESP32 WROOM-32: ble mouse keyboard with asyncio works great
+
+use ampy or thonny to upload code and lib to esp32
+
+txd_pin and rxd_pin are correct, txpin and rxpin are legacy deprecated
+```
+sudo vi /boot/firmware/config.txt
+[all]
+# --- Keep Bluetooth active on PL011 ---
+dtoverlay=disable-bt=0
+enable_uart=1
+core_freq=250
+
+# --- UART2 on physical pins 27 (TX) and 28 (RX) ---
+dtoverlay=uart2,txd_pin=27,rxd_pin=28
+
+# --- UART3 (fixed pins) on 7 (TX) and 29 (RX) ---
+dtoverlay=uart3
+
+# --- UART4 on physical pins 24 (TX) and 21 (RX) ---
+dtoverlay=uart4,txd_pin=24,rxd_pin=21
+```
+for vi, to disable VISUAL mode when mouse select/highlight
+```
+.vimrc
+
+:set mouse=
+```
+
 2025.1003
 
 enabled uart1,2,3 on pi0.
