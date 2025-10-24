@@ -1,5 +1,20 @@
 # log.md
 
+2025.1024
+
+esp32 
+
+- wroom32 websocket client works with pi0 websocket server
+
+- c6 rgb led
+
+- c3 ble mouse
+
+pico 3dof delta robot
+
+yolo11 screen segmentation
+
+
 2025.1007
 
 ESP32 WROOM-32: ble mouse keyboard with asyncio works great
