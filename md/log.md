@@ -6,7 +6,7 @@ esp32
 
 - wroom32 websocket client works with pi0 websocket server
 
-- c6 rgb led
+- c6 rgb led, http server for on/off light
 
 - c3 ble mouse
 
