@@ -14,6 +14,8 @@ pico 3dof delta robot
 
 yolo11 screen segmentation
 
+label studio
+
 
 2025.1007
 
