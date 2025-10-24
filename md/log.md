@@ -10,7 +10,7 @@ esp32
 
 - c3 ble mouse
 
-pico 3dof delta robot
+pico 3dof delta robot, basic pid
 
 yolo11 screen segmentation
 
