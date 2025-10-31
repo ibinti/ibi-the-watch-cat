@@ -8,7 +8,7 @@ python websocket joins c# .net 9 signalr hub (python still uses base64 encoding 
 
 this is effectively a message bridge between python and c#
 
-python: hardware level control interface for microcontroller
+python: hardware level control interface for microcontroller. mcu uses circuitpython. not considering micropython. the usual python is called cpython - name likely from the use of c/c++ library under the hood
 
 c#: human user interface with maui blazor hybrid web app for web site as well as devices such as smart phone, tablet, and pc
 
