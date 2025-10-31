@@ -1,5 +1,26 @@
 # log.md
 
+2025.1031
+
+### often two is too many
+
+python websocket joins c# .net 9 signalr hub (python still uses base64 encoding for binary message for the moment, todo: find ways to use messagepack eventually in the future)
+
+this is effectively a message bridge between python and c#
+
+python: hardware level control interface for microcontroller
+
+c#: human user interface with maui blazor hybrid web app for web site as well as devices such as smart phone, tablet, and pc
+
+vps and rpi run ubuntu 24.04 LTS, unifying software stacks, no more pi os
+
+mcu: circuitpython, esp32 s3 and rpi pico
+
+sbc: rpi pi 4 <- any other possible such as jetson
+
+now sbc pi 4 runs only python websocket client. no more fastapi server and blazor server
+
+
 2025.1024
 
 esp32 
